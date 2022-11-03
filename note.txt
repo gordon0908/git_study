@@ -6,3 +6,16 @@
     4, git commit -m "xxxx"
     5, git add . (add all)
 }
+2, log 
+{
+    1, git log 
+}
+3, git remote , push 
+{
+    1, git remote add origin xxxxxxx(copy it from github)
+    2, git branch -M main (change current branch to main)
+    3, git push -u origin main (puch code to origin main)
+    4, git remove -v (view remote branch)
+    5, git push -u origin master(to master branch)
+    6, git remote remove origin (remove the branch remote origin)
+}
