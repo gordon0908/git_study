@@ -1,0 +1,8 @@
+1, add 
+{
+    1, git init (init the project)
+    2, git status 
+    3, git add filename 
+    4, git commit -m "xxxx"
+    5, git add . (add all)
+}
